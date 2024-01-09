@@ -1,0 +1,27 @@
+.ps-sidebar-root {
+    width: 70px !important;
+    min-width: 60px !important;
+    border-color: black !important;
+}
+
+.ps-menu-root {
+    width: 60px;
+    color: grey;
+}
+
+.ps-sidebar-container{
+    background-color: black !important;
+}
+
+.ps-menu-button:hover{
+    color: black !important;
+}
+
+.menu1 .ps-menu-button {
+    padding-right: 0 !important;
+    padding-top: 10px;
+}
+.app-logo-style{
+    height: 40px;
+    left: 10px;
+}
